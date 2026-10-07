@@ -1,7 +1,7 @@
 {
   "appId":"com.aman.magicaman",
   "appName":"Magic Aman",
-  "webDir":".",
+  "webDir":"www",
   "server":{"androidScheme":"https"},
   "android":{"allowMixedContent":false}
 }
