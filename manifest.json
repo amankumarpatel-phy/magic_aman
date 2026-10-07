@@ -1,0 +1,10 @@
+{
+  "name":"Magic Aman",
+  "short_name":"Magic",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#000000",
+  "theme_color":"#fffc00",
+  "orientation":"portrait",
+  "description":"A mobile social-camera prototype built by Aman."
+}
